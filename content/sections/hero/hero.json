@@ -10,11 +10,11 @@
   },
   "title": "Триада -- digital-агентство полного цикла",
   "subtitle": {
-    "prefix": "Основной провиль работы -- ",
+    "prefix": "Цифровой партнер ",
     "highlight": "застройщика",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "Поможем в маркетинге и продажах. Начнем с начала или подключимся по ходу работы",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": false
