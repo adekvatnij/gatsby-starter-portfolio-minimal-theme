@@ -1,13 +1,13 @@
 {
   "siteMetadata": {
-    "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
+    "language": "ru",
+    "siteUrl": "https://gatsbystarterportfoliomin40803.gatsbyjs.io/",
+    "title": "2A digital-agency",
     "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
+    "description": "Помогаем застройщикам достигать результатов",
+    "author": "2A digital-agency",
     "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "Помогаем застройщикам достигать результатов",
     "social": {
       "behance": "https://behance.com",
       "github": "https://github.com/konstantinmuenster",
@@ -17,7 +17,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "2A" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
