@@ -8,13 +8,13 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "2A — digital-агентство",
+  "title": "2A — digital-агентство для застройщиков",
   "subtitle": {
-    "prefix": "Полный спектр услуг ",
-    "highlight": "для застройщика",
-    "suffix": ""
+    "prefix": "Поможем в маркетинге и продажах. Подключимся ",
+    "highlight": "на любом этапе",
+    "suffix": " жизни вашего проекта"
   },
-  "description": "Поможем в маркетинге и продажах. Начнем с начала или подключимся по ходу работы",
+  "description": "Сделаем сайт, внедрим CRM, нарисуем продающие рендеры, раскачаем соцсети, запустим рекламу, поможем отделу продаж",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": false
