@@ -7,7 +7,7 @@
     "alt": "2A Logo"
   },
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": true
+    "from": ["VK", "Telegram", "WhatsApp", "YouTube"],
+    "showIcons": false
   }
 }
