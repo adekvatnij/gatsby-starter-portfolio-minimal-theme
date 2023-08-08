@@ -6,33 +6,33 @@
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "Помогаем застройщикам достигать результатов",
     "author": "2A digital-agency",
-    "avatar": "../content/images/gatsby.png",
+    "avatar": "../content/images/logo.png",
     "bio": "Помогаем застройщикам достигать результатов",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "behance": "#",
+      "github": "#",
+      "medium": "#",
+      "linkedin": "#",
+      "mail": "mailto:"
     }
   },
   "siteConfiguration": {
     "logo": { "text": "2A" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "О нас", "url": "/#about" },
+        { "label": "Портфолио", "url": "/blog" },
+        { "label": "Услуги", "url": "/#features" },
+        { "label": "Контакты", "url": "/#github" }
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Resume",
-        "url": "/resume.pdf"
+        "label": "Позвонить",
+        "url": "tel:+79062206053"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "Политика конфиденциальности", "url": "/privacy" },
+        { "label": "Обработка персональных данных", "url": "/imprint" }
       ]
     },
     "featureToggles": {
