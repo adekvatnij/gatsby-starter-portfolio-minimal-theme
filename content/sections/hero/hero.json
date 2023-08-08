@@ -16,7 +16,7 @@
   },
   "description": "Подключимся на любом этапе жизни вашего проекта. Сделаем сайт, внедрим CRM, нарисуем продающие рендеры, раскачаем соцсети, запустим рекламу, поможем отделу продаж",
   "socialProfiles": {
-    "from": ["VK", "Telegram", "WhatsApp", "YouTube"],
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": false
   }
 }
