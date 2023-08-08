@@ -8,15 +8,15 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "2A — digital-агентство полного цикла",
+  "title": "Триада -- digital-агентство полного цикла",
   "subtitle": {
     "prefix": "Цифровой партнер ",
     "highlight": "застройщика",
-    "suffix": ""
+    "suffix": "."
   },
   "description": "Поможем в маркетинге и продажах. Начнем с начала или подключимся по ходу работы",
   "socialProfiles": {
-    "from": ["ВКонтакте", "Telegram", "WhatsApp", "Почта"],
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": false
   }
 }
