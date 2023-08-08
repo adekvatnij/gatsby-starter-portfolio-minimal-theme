@@ -2,47 +2,43 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "Разработка и внедрение",
+      "title": "Сделаем сайт, настроим CRM",
+      "description": "Подберем решение, которое подойдет вашему проекту. Сайт для комапании, жилого комплекса, коттеджного поселка или просто лендинг. Настроим CRM, чтобы не терять потенциальных покупателей. Photo by Clément H on Unsplash.",
+      "tags": ["Разработка сайтов", "Внедрение CRM"],
       "image": {
         "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
+        "alt": "Разработка сайтов, внедрение CRM",
         "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://gatsbystarterportfoliomin40803.gatsbyjs.io//"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "Стратегия и аудит",
+      "title": "Составим план продвижения на основе анализа",
+      "description": "Можем начать с разработки стратегии развития Бренда, так и подключиться к продвижению существующих проектов. Настроим и оцифруем продажи с нуля либо проанализием существующую систему и предложим варианты оптимизации.. Photo by Kelly Sikkema on Unsplash.",
+      "tags": ["Маркетинг", "Продажи"],
       "image": {
         "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "alt": "Стратегия и аудит"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "type": "external",
+          "url": "https://gatsbystarterportfoliomin40803.gatsbyjs.io/"
         }
       ]
     }
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "label": "Связаться с нами",
+    "url": "tel:+79062206053"
   }
 }
