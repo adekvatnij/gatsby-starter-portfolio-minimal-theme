@@ -32,7 +32,7 @@
       },
       "footer": [
         { "label": "Политика конфиденциальности", "url": "/privacy" },
-        { "label": "Персональные данные", "url": "/imprint" }
+        
       ]
     },
     "featureToggles": {
