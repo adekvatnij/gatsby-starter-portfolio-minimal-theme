@@ -32,7 +32,6 @@
       },
       "footer": [
         { "label": "Политика конфиденциальности", "url": "/privacy" },
-        { "label": "Политика конфиденциальности", "url": "/privacy" },
       ],
     },
     "featureToggles": {
