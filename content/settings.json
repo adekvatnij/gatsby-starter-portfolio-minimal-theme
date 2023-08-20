@@ -2,18 +2,18 @@
   "siteMetadata": {
     "language": "ru",
     "siteUrl": "https://gatsbystarterportfoliomin40803.gatsbyjs.io/",
-    "title": "2A digital-agency",
+    "title": "2A — digital-агентство для застройщиков",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "Помогаем застройщикам достигать результатов",
-    "author": "2A digital-agency",
-    "avatar": "../content/images/logo.png",
+    "author": "2A — digital-агентство для застройщиков",
+    "avatar": "../content/images/favicon.png",
     "bio": "Помогаем застройщикам достигать результатов",
     "social": {
-      "behance": "#",
-      "github": "#",
-      "medium": "#",
-      "linkedin": "#",
-      "mail": "mailto:"
+      "behance": "https://gatsbystarterportfoliomin40803.gatsbyjs.io/",
+      "VK": "https://gatsbystarterportfoliomin40803.gatsbyjs.io/",
+      "Telegram": "https://gatsbystarterportfoliomin40803.gatsbyjs.io/blog/",
+      "WhatsApp": "https://gatsbystarterportfoliomin40803.gatsbyjs.io/",
+      "Youtube": "mailto:info@2a-digital.ru"
     }
   },
   "siteConfiguration": {
@@ -27,12 +27,12 @@
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Позвонить",
+        "label": "+7 (906) 220-60-53",
         "url": "tel:+79062206053"
       },
       "footer": [
         { "label": "Политика конфиденциальности", "url": "/privacy" },
-        { "label": "Обработка персональных данных", "url": "/imprint" }
+        { "label": "Политика конфиденциальности", "url": "/privacy" },
       ]
     },
     "featureToggles": {

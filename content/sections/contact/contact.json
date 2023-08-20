@@ -1,13 +1,9 @@
 {
-  "name": "2A digital-агентство для застройщиков",
+  "name": "2A — digital-агентство для застройщиков",
   "email": "info@2a-digital.ru",
   "description": "Пишите по любым вопросам. Мы поможем",
   "image": {
     "src": "../../images/favicon.png",
     "alt": "2A Logo"
-  },
-  "socialProfiles": {
-    "from": ["ВКонтакте", "Telegram", "WhatsApp", "Почта"],
-    "showIcons": true
   }
 }
