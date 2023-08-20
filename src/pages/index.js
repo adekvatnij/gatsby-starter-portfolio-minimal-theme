@@ -10,8 +10,6 @@ import {
   Seo,
 } from "gatsby-theme-portfolio-minimal";
 
-<script src="https://cdn.viqeo.tv/vn/vn_vq_init.js?vq_profile_id=15300&vq_player_id=4422"  defer></script>
-
 export default function IndexPage() {
   return (
     <>
